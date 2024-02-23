@@ -1,4 +1,0 @@
-may name first
-my middle name
-my last name 
-end
